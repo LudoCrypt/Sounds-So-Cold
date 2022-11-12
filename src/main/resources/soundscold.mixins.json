@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "net.ludocrypt.soundscold.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"PositionedSoundInstanceMixin",
+		"SoundSystemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
