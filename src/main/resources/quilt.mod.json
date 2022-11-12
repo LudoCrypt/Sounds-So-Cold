@@ -6,14 +6,14 @@
 		"version": "${version}",
 		"metadata": {
 			"name": "Sounds So Cold",
-			"description": "Adds the So Cold effect to all the ingame music!",
+			"description": "Adds the 'So Cold' effect to all the ingame music! What's the 'So Cold' effect? It's named after the effect in Undertale, for when you're fighting an Amalgamate looking like Snowdrake, and Snowy plays, distorted, and slower.",
 			"contributors": {
 				"LudoCrypt": "Developer"
 			},
 			"contact": {
 				"homepage": "https://www.curseforge.com/minecraft/mc-mods/sounds-so-cold",
-				"issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
-				"sources": "https://github.com/QuiltMC/quilt-template-mod"
+				"issues": "https://github.com/LudoCrypt/Sounds-So-Cold/issues",
+				"sources": "https://github.com/LudoCrypt/Sounds-So-Cold"
 			},
 			"icon": "assets/soundscold/icon.png"
 		},
