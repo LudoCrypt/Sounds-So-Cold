@@ -1,5 +1,7 @@
 {
+	"soundscold.midnightconfig.title": "Sounds So Cold",
 	"soundscold.midnightconfig.vibratoStrength": "Vibrato Strength",
 	"soundscold.midnightconfig.restingPitch": "Resting Pitch",
-	"soundscold.midnightconfig.pitchRange": "Pitch Range"
+	"soundscold.midnightconfig.pitchRange": "Pitch Range",
+	"soundscold.midnightconfig.coldDiscs": "Cold Music Discs"
 }
